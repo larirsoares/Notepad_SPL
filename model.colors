@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE featuremodelattributes SYSTEM "featuremodelattributes.dtd">
+<featuremodelattributes>
+<featureattr name="Open" id="13" selected="true"/>
+<featureattr name="Exit" id="17" selected="true"/>
+<featureattr name="Format" id="22"/>
+<featureattr name="Line_Wrap" id="9" selected="true"/>
+<featureattr name="Cut" id="7" selected="true"/>
+<featureattr name="Save_As" id="10" selected="true"/>
+<featureattr name="Copy" id="16" selected="true"/>
+<featureattr name="Paste" id="11" selected="true"/>
+<featureattr name="Menu" id="23"/>
+<featureattr name="Help" id="25"/>
+<featureattr name="Menu_Bar" id="5" selected="true"/>
+<featureattr name="Font" id="14" selected="true"/>
+<featureattr name="Notepad" id="20"/>
+<featureattr name="About" id="8" selected="true"/>
+<featureattr name="Edit" id="24"/>
+<featureattr name="Undo" id="2" selected="true"/>
+<featureattr name="Find" id="15" selected="true"/>
+<featureattr name="Save_Normal" id="4" selected="true"/>
+<featureattr name="File" id="21"/>
+<featureattr name="New" id="18" selected="true"/>
+<featureattr name="Print" id="6" selected="true"/>
+<featureattr name="Redo" id="12" selected="true"/>
+<featureattr name="Select_All" id="1" selected="true"/>
+<featureattr name="Find_Next" id="3" selected="true"/>
+<featureattr name="Save" id="19"/>
+</featuremodelattributes>
